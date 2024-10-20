@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Radit</h1>
+<h1 align="center">Hi 👋, I'm Raditya Akmal</h1>
 <h3 align="center">A passionate programming from Indonesia</h3>
 
 - 🔭 I’m currently working on [Machine Learning](https://www.dicoding.com/)
