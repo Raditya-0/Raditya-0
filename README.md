@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raditya Akmal</h1>
 <h3 align="center">A passionate programming from Indonesia</h3>
 
-- 🔭 I’m currently working on [Machine Learning](https://www.dicoding.com/)
+- 🔭 I’m currently working on [Machine Learning]([https://www.dicoding.com/](https://www.dicoding.com/academies/185-belajar-pengembangan-machine-learning))
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
