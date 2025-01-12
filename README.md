@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 🤝 I’m looking for help with [Machine Learning](https://www.dicoding.com/academies/185-belajar-pengembangan-machine-learning)
+- 🤝 I’m looking for help with [TensorFlow](https://www.tensorflow.org/)
 
 - 💬 Ask me about **Nothing**
 
