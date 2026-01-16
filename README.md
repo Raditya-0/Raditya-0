@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Radit</h1>
 <h3 align="center">A passionate programming from Indonesia</h3>
 
-- 🔭 I’m currently working on [ABU Robocon 2025](https://aburobocon2025.mnb.mn/en)
+- 🔭 I’m currently working on [ITS Robocon]([https://aburobocon2025.mnb.mn/en](https://github.com/ITSRobocon))
 
 - 🌱 I’m currently learning **Artificial Intelligence**
-
-- 🤝 I’m looking for help with [TensorFlow](https://www.tensorflow.org/)
 
 - 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **radityaakmal514@gmail.com**
-
-- ⚡ Fun fact **Pelupa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
