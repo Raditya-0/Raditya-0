@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **Nothing**
-
 - 📫 How to reach me **radityaakmal514@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
